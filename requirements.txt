@@ -1,5 +1,7 @@
-pandas==2.2.3
-numpy==2.1.2
-seaborn==0.13.2
-matplotlib==3.9.2
-plotly==5.24.1
+Python == 3.13.0
+NumPy
+Pandas
+Seaborn
+Matplotlib
+Scipy
+Scikit-learn
