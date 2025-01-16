@@ -9,7 +9,7 @@ This project provides a comprehensive analysis of an e-commerce dataset, uncover
 The dataset contains information about customer orders, including product categories, payment methods, order statuses, and transaction dates. The analysis focuses on answering key business questions and identifying actionable insights.
 
 <div style="text-align: center;">
-    <img src="project_img.jpg" alt="Project Banner" style="width: 100%; max-width: 500px; border-radius: 10px;"/>
+    <img src="project_img.jpg" alt="Project Banner" style="width: 70%; max-width: 500px; border-radius: 10px;"/>
 </div>
 
 ---
