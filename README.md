@@ -9,7 +9,7 @@ This project provides a comprehensive analysis of an e-commerce dataset, uncover
 The dataset contains information about customer orders, including product categories, payment methods, order statuses, and transaction dates. The analysis focuses on answering key business questions and identifying actionable insights.
 
 <div style="text-align: center;">
-    <img src="project_img.jpg" alt="Project Banner" style="width: 100%; max-width: 350px; border-radius: 10px;"/>
+    <img src="project_img.jpg" alt="Project Banner" style="width: 100%; max-width: 350px; height:400px; border-radius: 10px;"/>
 </div>
 
 ---
@@ -54,3 +54,38 @@ The dataset used in this project is **Pakistan's Largest E-Commerce Dataset**, a
   - Feature engineering, data cleaning, and exploratory data analysis (EDA).
 - **Machine Learning:**
   - Linear regression for predicting the number of orders.
+
+ ## **Feel Free to Reach out**
+
+<div class="contact-info">
+  <h3 class="section-title">
+    <strong>Author:</strong>
+    <a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="_blank">Yousuf Shah</a>
+  </h3>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://yousfshah.github.io/Portfolio_Website/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio_Website-Website-blue?style=for-the-badge&logo=link" alt="Portfolio Website" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Yousfshah" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.kaggle.com/yousufshah" target="_blank">
+          <img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
