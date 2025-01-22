@@ -44,17 +44,6 @@ The dataset used in this project is **Pakistan's Largest E-Commerce Dataset**, a
 
 ---
 
-## **Technologies Used** 🛠️
-
-- **Python Libraries:**
-  - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) for data manipulation.
-  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) and ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white) for data visualization.
-  - ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) for predictive modeling.
-- **Data Analysis:**
-  - Feature engineering, data cleaning, and exploratory data analysis (EDA).
-- **Machine Learning:**
-  - Linear regression for predicting the number of orders.
-
  ## **Feel Free to Reach out**
 
 <div class="contact-info">
